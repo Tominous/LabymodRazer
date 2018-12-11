@@ -1,0 +1,6 @@
+{
+  "uuid": "%uuid%",
+  "name": "LabyRazer",
+  "mainClass": "de.labymod.razer.RazerAddon",
+  "transformerClass": "net.labymod.addons.test.TestTransformer"
+}

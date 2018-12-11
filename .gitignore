@@ -8,10 +8,11 @@ bin
 
 # idea
 out
-.ipr
+*.ipr
 *.iws
-.iml
+*.iml
 .idea
+.flooignore
 
 # gradle
 build
@@ -21,8 +22,4 @@ build
 eclipse
 run
 out
-flooignore
-LabyModRazer.iml
-LabyModRazer.ipr
-LabyModRazer.iws
 

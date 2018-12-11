@@ -8,9 +8,9 @@ bin
 
 # idea
 out
-*.ipr
+.ipr
 *.iws
-*.iml
+.iml
 .idea
 
 # gradle

@@ -21,5 +21,8 @@ build
 eclipse
 run
 out
-.flooignore
+flooignore
+LabyModRazer.iml
+LabyModRazer.ipr
+LabyModRazer.iws
 
